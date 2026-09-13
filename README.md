@@ -1,2 +1,2 @@
-# myCv
-Tartiblangan ko'rinishdagi Rezume(Cv) albatta Hammasi emas
+<img width="109" height="41" alt="image" src="https://github.com/user-attachments/assets/af9999a8-8d61-49f6-9c6c-3b47d7e4db36" /><img width="984" height="240" alt="image" src="https://github.com/user-attachments/assets/139e4b90-eb47-4bdd-a246-8ea04110551b" /><img width="984" height="240" alt="image" src="https://github.com/user-attachments/assets/886823ac-8e7e-4f8c-a00d-c0c2f475318a" /># myCv
+Tartiblangan ko'rinishdagi Rezume(Cv) albatta Hammasi emas!😉
